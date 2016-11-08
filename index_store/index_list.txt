@@ -1,0 +1,3 @@
+index_store/index_city.txt
+index_store/index_outside.txt
+index_store/index_state.txt
